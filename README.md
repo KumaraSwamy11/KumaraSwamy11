@@ -2,9 +2,7 @@
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Java Full Stack Course
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 KumaraSwamy11/KumaraSwamy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
